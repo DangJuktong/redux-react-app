@@ -1,0 +1,11 @@
+.field-item {
+    margin-right: 10px;
+    text-decoration: underline;
+}
+.field-item:hover {
+    cursor: pointer;
+}
+
+.current-field {
+    text-decoration: none;
+}
